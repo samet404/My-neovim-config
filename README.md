@@ -2,7 +2,7 @@
 
 My neovim config simply is a lazyvim and with extra plugins, that's it.
 
-Installation
+## Installation
 
 ```
 mv ~/.config/nvim{,.bak}
