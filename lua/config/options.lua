@@ -8,4 +8,5 @@ vim.opt.tabstop = 2
 vim.opt.shiftwidth = 2
 vim.opt.autoindent = true
 vim.opt.mouse = "a"
+vim.g.mapleader = ","
 vim.opt.termguicolors = true
