@@ -1,6 +1,6 @@
 # My neovim config
 
-My neovim config simply is a lazyvim and with extra plugins, that's it.
+My neovim config simply is just a lazyvim and with extra plugins, that's it.
 
 ## Installation
 
